@@ -73,7 +73,6 @@ user_pref("browser.newtabpage.activity-stream.migrationExpired", true);
 user_pref("browser.newtabpage.activity-stream.section.highlights.rows", 4);
 user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
 user_pref("browser.newtabpage.activity-stream.topSitesRows", 4);
-user_pref("browser.newtabpage.pinned", "[{\"url\":\"https://hd.kinopoisk.ru/\",\"label\":\"hd.kinopoisk\",\"baseDomain\":\"hd.kinopoisk.ru\"},{\"url\":\"https://www.dns-shop.ru/\",\"label\":\"dns-shop\",\"baseDomain\":\"dns-shop.ru\"},null,null,null,{\"url\":\"https://www.tinkoff.ru/summary/\",\"label\":\"tinkoff\"},{\"url\":\"https://translate.yandex.ru/\",\"label\":\"translate.yandex\"},null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,{\"url\":\"https://www.virustotal.com/gui/\",\"label\":\"virustotal\"}]");
 user_pref("browser.newtabpage.storageVersion", 1);
 user_pref("browser.pageActions.persistedActions", "{\"ids\":[\"bookmark\",\"_036a55b4-5e72-4d05-a06c-cba2dfcc134a_\"],\"idsInUrlbar\":[\"_036a55b4-5e72-4d05-a06c-cba2dfcc134a_\",\"bookmark\"],\"idsInUrlbarPreProton\":[],\"version\":1}");
 user_pref("browser.pagethumbnails.storage_version", 3);
